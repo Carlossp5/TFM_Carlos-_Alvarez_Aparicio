@@ -1,4 +1,4 @@
-pip install matplotlib
+#pip install matplotlib
 
 # 0. Importar librerias
 
@@ -6,7 +6,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import io
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 from sklearn.preprocessing import MinMaxScaler
 from scipy.spatial.distance import cosine, euclidean
