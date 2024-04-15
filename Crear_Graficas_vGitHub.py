@@ -1,3 +1,5 @@
+pip install matplotlib
+
 # 0. Importar librerias
 
 import streamlit as st
