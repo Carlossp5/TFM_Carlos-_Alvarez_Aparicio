@@ -7,10 +7,10 @@ import pandas as pd
 import numpy as np
 import io
 #import matplotlib.pyplot as plt
-from sklearn.preprocessing import StandardScaler
-from sklearn.preprocessing import MinMaxScaler
-from scipy.spatial.distance import cosine, euclidean
-from sklearn.metrics.pairwise import cosine_similarity
+#from sklearn.preprocessing import StandardScaler
+#from sklearn.preprocessing import MinMaxScaler
+#from scipy.spatial.distance import cosine, euclidean
+#from sklearn.metrics.pairwise import cosine_similarity
 
 # Cargo tambien el repositorio de Github donde subiré todo lo necesario para productivizar la app web
 repo_path = "https://github.com/Carlossp5/TFM_Carlos-_Alvarez_Aparicio.git"
