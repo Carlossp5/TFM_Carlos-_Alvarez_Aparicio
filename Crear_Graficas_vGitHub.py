@@ -1,5 +1,3 @@
-pip install matplotlib==3.4.3
-
 # 0. Importar librerias
 
 import streamlit as st
